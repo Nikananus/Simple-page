@@ -1,0 +1,11 @@
+h1, h2, h3 {
+	color: blue;
+	background-color: gray;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.par{
+	color: red;
+}
